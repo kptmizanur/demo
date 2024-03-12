@@ -1,0 +1,20 @@
+html body {
+    width: 300px;
+    margin: 0 auto;
+    background-color:rgb(33, 48, 59);
+}
+#todoinput {
+    height: 40px;
+    border-width: 0px;
+    border: 1px solid black;
+    outline: none;
+    front-size: 25px;
+    vertical-align: middle;
+}
+#addbutton {
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
